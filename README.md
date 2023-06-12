@@ -288,6 +288,7 @@ int main(int argc, char **argv)
 }
 
 ## Output:
-<br>![output](./pca(ex6).png)
+![pca(ex6)](https://github.com/Naveensrinivasan07/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/119475891/86d9ab48-9ef6-45f8-a7d3-c4c49399ea67)
+
 ## Result:
 The Matrix transposition on shared memory with grid (1,1) block (16,16) is demonstrated successfully.
